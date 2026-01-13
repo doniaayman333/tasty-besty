@@ -13,6 +13,7 @@ body {
     max-width: 420px;
     padding: 24px;
     text-align: center;
+    align-items: center;
     }
     .logo {
         width: 160px;
