@@ -9,11 +9,9 @@ body {
     }
     
     .wrapper {
-    width: 100%;
-    max-width: 420px;
-    padding: 24px;
-    text-align: center;
-    align-items: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center; /* يخلي كل الأزرار في النص */
     }
     .logo {
         width: 160px;
